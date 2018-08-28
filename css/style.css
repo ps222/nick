@@ -1,4 +1,13 @@
-
+.logonick{
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	float: left;
+	height: auto;
+	width: auto;
+	max-height: 100%;
+	
+}
 
 .row{
 	padding-top: 20px;
@@ -46,3 +55,8 @@ label{
 	justify-content: center;
 	align-items: center;
 }
+.logo{
+	width:150px;
+	margin-top:10px;
+}
+
