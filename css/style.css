@@ -1,0 +1,48 @@
+
+
+.row{
+	padding-top: 20px;
+}
+
+
+.col-xs-4 cola{
+	float:left;
+	display: block;
+	width: 100%;
+	text-align: right;
+}
+
+.col-xs-8 colb{
+	float:left;
+	display:block;
+text-align: right;
+	width: 100%;
+}
+.modal-body{
+	text-align: center;
+}
+.modal-title{
+	text-align: center;
+}
+
+.modal-footer{
+	text-align: center;
+}
+
+label{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.submitbutton{
+	padding-top:10px;
+}
+
+.col-lg-6-push-5 colb{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
